@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+C:/Users/mcort/OneDrive/Escritorio/ProyectoFinalEDA/cmake-build-debug/CMakeFiles/ProyectoFinalEDA.dir
+C:/Users/mcort/OneDrive/Escritorio/ProyectoFinalEDA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mcort/OneDrive/Escritorio/ProyectoFinalEDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+=======
 C:/Users/andre/OneDrive/Documentos/ProyectoFinalEDA/cmake-build-debug/CMakeFiles/ProyectoFinalEDA.dir
 C:/Users/andre/OneDrive/Documentos/ProyectoFinalEDA/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/andre/OneDrive/Documentos/ProyectoFinalEDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+>>>>>>> 7d3356dcad90e07ce5e8ac7fe64cd16b76d9b04e
