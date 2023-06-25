@@ -1,0 +1,8 @@
+# ninja log v5
+0	233	7093552387841619	CMakeFiles/ProyectoFinalEDA.dir/main.cpp.obj	435a5941922e20fb
+235	320	7093552388674148	ProyectoFinalEDA.exe	6eb1be1369eafc0
+8	218	7093553789287115	CMakeFiles/ProyectoFinalEDA.dir/Views/VentanaEstudianteInicio.cpp.obj	9132122ac61254ed
+6	218	7093553789287115	CMakeFiles/ProyectoFinalEDA.dir/Views/VentanaMain.cpp.obj	34497621d44665a3
+5	204	7093554537675787	CMakeFiles/ProyectoFinalEDA.dir/Views/VentanaMain.cpp.obj	34497621d44665a3
+2	205	7093554537685828	CMakeFiles/ProyectoFinalEDA.dir/main.cpp.obj	435a5941922e20fb
+205	263	7093554538239297	ProyectoFinalEDA.exe	70ce7bb92c47d57d
