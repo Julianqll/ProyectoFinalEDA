@@ -12,6 +12,6 @@ public:
     void Inicio()
     {
         system("cls");
-        cout<<"Ventana Inicio Holaaaa";
+        cout<<"Ventana Inicio Holaaaa" << endl;
     }
 };
