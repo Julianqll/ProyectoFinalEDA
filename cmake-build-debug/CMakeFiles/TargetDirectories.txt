@@ -1,3 +1,3 @@
-C:/Users/user/CLionProjects/ProyectoFinalEDA/cmake-build-debug/CMakeFiles/ProyectoFinalEDA.dir
-C:/Users/user/CLionProjects/ProyectoFinalEDA/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/user/CLionProjects/ProyectoFinalEDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/mcort/OneDrive/Escritorio/ProyectoFinalEDA/cmake-build-debug/CMakeFiles/ProyectoFinalEDA.dir
+C:/Users/mcort/OneDrive/Escritorio/ProyectoFinalEDA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mcort/OneDrive/Escritorio/ProyectoFinalEDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
